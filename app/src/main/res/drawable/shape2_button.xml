@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+    To mau nen cho hinh
+    -->
+    <solid android:color="#a00037" />
+    <!--Bo goc cho hinh-->
+    <corners android:radius="30dp"/>
+    <!--Duong vien-->
+    <stroke android:color="#ffff00"
+        android:width="4dp"/>
+    <gradient android:angle="135"
+        android:endColor="#CE93D8"
+        android:startColor="#a00037"/>
+</shape>

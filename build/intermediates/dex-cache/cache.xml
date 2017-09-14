@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\thang\AndroidStudioProjects\GiaoTiepFragmentAndActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\thang\AndroidStudioProjects\GiaoTiepFragmentAndActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_de6c4a7f09d44784538d0c4bf2d18c77829120d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thang\AndroidStudioProjects\GiaoTiepFragmentAndActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="462b725520ec141c70d0eb90c63443c0db42ef67">
+        <dex dex="C:\Users\thang\AndroidStudioProjects\GiaoTiepFragmentAndActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58805b321ff30fb202cb347cc17efac1f4f6c628\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thang\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\thang\AndroidStudioProjects\GiaoTiepFragmentAndActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqliteassethelper-2.0.1_83ffb4246ccac711e11ba053cd772f9e301fb5bf\classes.dex" />
+    </item>
+
+</items>
